@@ -143,7 +143,7 @@ fieldset[disabled] .btn-xl.active {
   background-color: white;
 }
 .navbar-custom {
-  background-color: #222222;
+  background-color: #ffffff ;
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
@@ -169,7 +169,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #fed136;
+  background-color: #ffffff ;
 }
 .navbar-custom .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -180,7 +180,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #fed136;
+  color: #ffffff ;
   outline: none;
 }
 .navbar-custom .navbar-nav > .active > a {
@@ -214,7 +214,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: #222222;
+    background-color: #ffffff ;
     padding: 10px 0;
   }
   .navbar-custom.affix .navbar-brand {
